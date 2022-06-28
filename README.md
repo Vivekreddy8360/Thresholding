@@ -88,11 +88,12 @@ for i in range(0,9):
 ![](5.png)
 ![](6.png)
 ### Adaptive Thresholding
+
+![](9.png)
 ![](7.png)
 ![](8.png)
 ### Optimum Global Thesholding using Otsu's Method
-
-![](9.png)
+![](7.png)
 
 
 ## Result
